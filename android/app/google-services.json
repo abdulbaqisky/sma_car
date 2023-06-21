@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "593952442953",
+    "firebase_url": "https://smartcar-d9fe8-default-rtdb.firebaseio.com",
+    "project_id": "smartcar-d9fe8",
+    "storage_bucket": "smartcar-d9fe8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593952442953:android:0fe92ba4846f5d4f570d98",
+        "android_client_info": {
+          "package_name": "com.example.sma_ca"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593952442953-rmleq20id4n0gti44m530qc3jhhm2u9l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6Uj-Xp0G1I8j8oH0HYSYmragdf_uFu74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593952442953-rmleq20id4n0gti44m530qc3jhhm2u9l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "593952442953-77ulc5v073gd80lpkq77ock3d6f20it3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.smaCa"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593952442953:android:9ca9252f607e315e570d98",
+        "android_client_info": {
+          "package_name": "com.example.sma_car"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593952442953-rmleq20id4n0gti44m530qc3jhhm2u9l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6Uj-Xp0G1I8j8oH0HYSYmragdf_uFu74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593952442953-rmleq20id4n0gti44m530qc3jhhm2u9l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "593952442953-77ulc5v073gd80lpkq77ock3d6f20it3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.smaCa"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593952442953:android:eb77ece520dfc133570d98",
+        "android_client_info": {
+          "package_name": "com.qisky.smartcar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593952442953-rmleq20id4n0gti44m530qc3jhhm2u9l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6Uj-Xp0G1I8j8oH0HYSYmragdf_uFu74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593952442953-rmleq20id4n0gti44m530qc3jhhm2u9l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "593952442953-77ulc5v073gd80lpkq77ock3d6f20it3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.smaCa"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
